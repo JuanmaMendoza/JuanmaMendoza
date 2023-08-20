@@ -42,7 +42,7 @@ Estoy buscando aplicar en el desarrollo Web. </p>
   
   <img height="200" width="400" src=https://github.com/felipewyss/felipewyss/blob/main/utilsImages/timeyou/Captura%20de%20pantalla%202023-08-17%20102709.png/>
   
-  <img height="200" width="400" src=https://github.com/felipewyss/felipewyss/blob/main/utilsImages/timeyou/Captura%20de%20pantalla%202023-08-17%20103001.png />
+
 
   <hr/>
   
