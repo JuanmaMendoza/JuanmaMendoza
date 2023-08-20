@@ -29,7 +29,7 @@ Estoy buscando aplicar en el desarrollo Web. </p>
   </ul>
 
 
-  <a href="https://github.com/felipewyss/timeyou-PF" target="_blank"> 🕒 TimeYou </a> <br/><br/>
+  <a href="https://github.com/mnlencina/timeyou-PF" target="_blank"> 🕒 TimeYou </a> <br/><br/>
   <p>Este proyecto es un e-commerce(no es un proyecto real) realizado durante el bootcamp.</p>
   
   <img height="200" width="400" src=https://github.com/felipewyss/felipewyss/blob/main/utilsImages/timeyou/Captura%20de%20pantalla%202023-08-17%20102541.png/>
