@@ -28,9 +28,9 @@ I'm passionate about programming and solving the problems that this field presen
     <li>Familiar handling of databases using SQL.</li>
   </ul>
 
-<h3>Proyects</h3>
+<h3>Projects</h3>
   <a href="https://github.com/mnlencina/timeyou-PF" target="_blank"> 🕒 TimeYou </a>
-  <p>100% Full Stack E-Commerce group proyect developed during the Bootcamp.</p>
+  <p>100% Full Stack E-Commerce group project developed during the Bootcamp.</p>
   
 
 
